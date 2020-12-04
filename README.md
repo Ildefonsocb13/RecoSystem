@@ -1,5 +1,5 @@
 # RecoSystem
-*RecoSystem is a program that recommends movies to user depending of his genres tastes,
+*RecoSystem is a C code program that recommends movies to user depending of his genres tastes,
 it works by a training function STILL in developing that modifies the values of user depending of what ratings
 he has sumitted, and by movies genre values that are also beeing modify by other users values.
 This means that the program modify all values by social interaction, because it isnt the same scary movie
